@@ -1,0 +1,18 @@
+.dot {
+	position: absolute;
+
+	width: 120px;
+	height: 120px;
+
+	background-color: black;
+	border: 2px solid red;
+	border-radius: 50%;
+}
+
+.menu {
+	position: absolute;
+}
+
+.text {
+	position: absolute;
+}
